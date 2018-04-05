@@ -12,7 +12,7 @@ fun main(args: Array<String>) {
 
 
     //comparing values
-    val oneGreaterThanTwo:Boolean=(1>2) 
+    val oneGreaterThanTwo:Boolean=(1>2)
     println("Is 1>2? $oneGreaterThanTwo.")
 
     val oneEqualTwo:Boolean=(1==2)
